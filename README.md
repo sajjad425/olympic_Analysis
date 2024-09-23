@@ -1,5 +1,7 @@
 # Olympic Dataset Analysis
 
+This repository contains data from the Olympic Games, covering athlete demographics, sports participation, and performance from 1896 to 2016. It also includes information about National Olympic Committees (NOCs) and their corresponding regions. This dataset is ideal for conducting analysis on Olympic history, athlete performance trends, and country-level participation insights.
+
 ## 1. Dataset Description
 
 The dataset consists of two files:
