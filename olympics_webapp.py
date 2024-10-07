@@ -85,7 +85,7 @@ if user_menu == "Overall Analysis":
     fig = px.line(athletes_overtime, x='Year', y='Name')
     st.plotly_chart(fig)
 
-    st.title("No of Events over time in every Athelete")
+    st.title("No of Events over time in every Sport")
     fig, ax = plt.subplots(figsize=(20,20))
     x = df.drop_duplicates(['Year','Sport','Event'])
     ax = sns.heatmap(x.pivot_table(index='Sport', columns='Year', values='Event', aggfunc='count').fillna(0).astype('int'),annot=True)
