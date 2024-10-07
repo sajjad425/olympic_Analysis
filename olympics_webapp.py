@@ -80,7 +80,7 @@ if user_menu == "Overall Analysis":
     fig = px.line(events_overtime, x='Year', y='Event')
     st.plotly_chart(fig)
 
-    athletes_overtime = olympics_helper.data_over_time(df,'Name')
+    athletes_overtime = olympics_helper.data_over_time(df,'')
     st.title("Atheletes Over the Year")
     fig = px.line(athletes_overtime, x='Year', y='Name')
     st.plotly_chart(fig)
