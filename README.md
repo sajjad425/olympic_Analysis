@@ -25,7 +25,7 @@ The dataset consists of two files:
 1. **ID**: Unique identifier for each athlete.
 2. **Name**: Full name of the athlete.
 3. **Sex**: Gender of the athlete (`M` for Male, `F` for Female).
-4. **Age**: Age of the athlete during the event.
+4. **Age**: Age of the athletes during the event.
 5. **Height**: Height of the athlete (in centimeters).
 6. **Weight**: Weight of the athlete (in kilograms).
 7. **Team**: The country or team the athlete represented.
