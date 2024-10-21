@@ -32,7 +32,6 @@ def medal_tally(df):
 
     return medal_tally
 
-
 def country_year_list(df):
     years = df['Year'].unique().tolist()
     years.sort()
@@ -49,4 +48,3 @@ def data_over_time(df,col):
     nations_overtime.rename(columns={'count': col},inplace=True)
 
     return nations_overtime
-    
