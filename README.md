@@ -42,4 +42,4 @@ The dataset consists of two files:
 
 1. **NOC**: National Olympic Committee code representing the country.
 2. **region**: The full name of the region or country represented by the NOC.
-3. **notes**: Additional notes about the region (if applicable).
+3. **notes**: Additionals notes about the region (if applicable).
