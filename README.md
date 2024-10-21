@@ -6,7 +6,7 @@ This repository contains data from the Olympic Games, covering athlete demograph
 
 The dataset consists of two files:
 
-- **`athlete_events.csv`**: This dataset contains detailed information about athletes who have participated in the Olympic Games from 1896 to 2016. It includes data on the athlete's demographics, the sport they participated in, and their performance.
+- **`athlete_events.csv`**: This dataset contains detailed information about athletes who have participated in the Olympic Games from 1896 to 2016. It includes data on the athlete's demographics, the sport they participated in, and their performances.
   
 - **`noc_regions.csv`**: This dataset maps the National Olympic Committees (NOCs) to the corresponding regions. It provides additional information about the country or region represented by the athletes.
 
